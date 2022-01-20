@@ -1,5 +1,20 @@
 body {
-    color: rgb(177, 91, 91);
+    color: rgb(165, 128, 128);
     text-align: center;
     font-family: "Helvetica";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: Center;
+    border: 1px solid rgb(255, 221, 221);
+    margin: 0 auto;
+}
+
+#cotainer h1{
+    font-size: 20px;
 }
