@@ -1,2 +1,2 @@
 # The-cool-blog
-El log más cool del mundo >:3
+El blog más cool del mundo >:3
